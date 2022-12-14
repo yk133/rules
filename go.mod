@@ -1,4 +1,4 @@
-module github.com/nikunjy/rules
+module github.com/yk133/rules
 
 go 1.18
 
